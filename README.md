@@ -34,7 +34,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/arthurrr/arthurrr/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/arthurrrangel/arthurrrangel/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
