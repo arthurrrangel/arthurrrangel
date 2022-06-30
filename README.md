@@ -38,24 +38,6 @@
 
 ###
 
-
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-   
 <!--
 **arthurrrangel/arthurrrangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
