@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Atualmente estudando programação pela Rocketseat. Desenvolvedor Web Full-Stack.</p>
+<p align="center"></p>
 
 ###
 
